@@ -1,0 +1,10 @@
+,BENIGN,DoS GoldenEye,DoS Hulk,DoS Slowhttptest,DoS slowloris,FTP-Patator,Heartbleed,Infiltration,SSH-Patator
+BENIGN,270941,3475,388925,2909,22638,6124,0,560,831
+DoS GoldenEye,96,324,5140,264,194,58,0,1,99
+DoS Hulk,664,928,136990,0,62,0,0,0,0
+DoS Slowhttptest,388,14,1000,1694,129,74,0,0,0
+DoS slowloris,66,0,2339,23,1033,17,0,0,0
+FTP-Patator,0,0,4763,0,0,0,0,0,0
+Heartbleed,0,2,4,0,0,0,0,0,0
+Infiltration,3,2,7,10,0,0,0,0,0
+SSH-Patator,3,0,1731,4,0,6,0,2,1792
